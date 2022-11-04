@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'amblebold_italic';
+    src:     url('Amble-BoldItalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+            
+
+
+h2{
+    font-family: 'amblebold_italic';
+    font-weight: 500;
+    color:rgb(101, 209, 211)
+}
